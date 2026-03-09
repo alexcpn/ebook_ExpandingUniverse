@@ -1,0 +1,11 @@
+{
+  "title": "The Expanding Universe & The Big Bang Model",
+  "description": "B.Sc Physics Project Report on the Expanding Universe and the Big Bang Model of the Origin of the Universe",
+  "author": "Alex C Punnen",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
