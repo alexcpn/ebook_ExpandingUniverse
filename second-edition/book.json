@@ -1,0 +1,11 @@
+{
+  "title": "The Expanding Universe & The Big Bang Model — Second Edition",
+  "description": "A revised and corrected edition of a 1998 B.Sc Physics project report on the expanding Universe and the Big Bang, with new diagrams and an account of what has been learned since.",
+  "author": "Alex C Punnen",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}

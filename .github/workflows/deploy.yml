@@ -17,6 +17,9 @@ jobs:
           node-version: '20'
       - run: npm install -g honkit
       - run: honkit build
+      - name: Build second edition into /second-edition
+        run: |
+          honkit build second-edition "$PWD/_book/second-edition"
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
